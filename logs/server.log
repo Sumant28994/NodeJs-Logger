@@ -1,0 +1,11 @@
+info: Apr-07-2023 19:17:20: 	Server started and running on http://localhost:3000
+info: Apr-07-2023 19:17:40: 	Server Sent A Hello World!
+error: Apr-07-2023 19:17:41: 	400 || Not Found - /favicon.ico - GET - ::1
+info: Apr-07-2023 19:17:47: 	Server started and running on http://localhost:3000
+error: Apr-07-2023 19:18:15: 	500 - Internal Server Error - y is not defined - /calc - GET - ::1
+error: Apr-07-2023 19:18:59: 	400 || Not Found - /hello - GET - ::1
+info: Apr-07-2023 19:20:18: 	Server started and running on http://localhost:3000
+info: Apr-07-2023 19:20:36: 	Server Sent A Hello World!
+info: Apr-07-2023 19:22:10: 	Server started and running on http://localhost:3000
+error: Apr-07-2023 19:22:11: 	500 - Internal Server Error - y is not defined - /calc - GET - ::1
+error: Apr-07-2023 19:22:19: 	500 - Internal Server Error - y is not defined - /calc - GET - ::1
